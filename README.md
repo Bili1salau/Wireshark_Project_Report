@@ -25,4 +25,4 @@ This report documents a Wireshark analysis of a TCP three-way handshake between 
 * Implement anomaly-based detection and rate/threshold monitoring to spot irregular SYN rates or unusual inter-arrival timing.
 * Harden logging and enable full packet capture for suspicious flows to allow retrospective analysis.
 * Employ ingress/egress filtering and source address validation to reduce the effectiveness of spoofed decoy traffic.
-* [Keep IDS/IPS signatures updated and tune sensitivity to catch fragmented or low-and-slow scans](https://github.com/Bili1salau/Wireshark_Project_Report/blob/main/Wireshark_Project_Report.pdf)
+* [Keep IDS/IPS signatures updated and tune sensitivity to catch fragmented or low-and-slow scans.](https://github.com/Bili1salau/Wireshark_Project_Report/blob/main/Wireshark_Project_Report.pdf)
